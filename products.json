@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" LD01 ",
+        "price": 800,
+        "image": "https://i.pinimg.com/236x/1a/5f/fc/1a5ffc74d6f438f7726ce45604bca332.jpg"
+    },
+    {
+        "id": 2,
+        "name":" LD02 ",
+        "price": 2500,
+        "image": "https://i.pinimg.com/236x/17/5a/d9/175ad97bc7a260af8463e93e25ceda13.jpg"
+    },
+    {
+        "id": 3,
+        "name":" LD03",
+        "price": 2090,
+        "image": "https://i.pinimg.com/236x/6f/36/18/6f36186266e6a3d6b236465cad2a813c.jpg"
+    },
+    {
+        "id": 4,
+        "name":" LD04",
+        "price": 700,
+        "image": "https://i.pinimg.com/236x/b0/c5/ac/b0c5acf5a2be38042e9a6d46a87d8f8c.jpg"
+    },
+    {
+        "id": 5,
+        "name":" LD05",
+        "price": 1090,
+        "image": "https://i.pinimg.com/236x/d2/94/25/d29425f5a2d80e2135adac38099437ac.jpg"
+    },
+    {
+        "id": 6,
+        "name":" LD06",
+        "price": 400,
+        "image": "https://i.pinimg.com/236x/ca/71/12/ca711296de004d41ed70dfcb606b503a.jpg"
+    },
+    {
+        "id": 7,
+        "name":" LD07",
+        "price": 620,
+        "image": "https://i.pinimg.com/236x/4a/7d/2d/4a7d2dde287d3ddc5f2d5de5204b6119.jpg"
+    },
+    {
+        "id": 8,
+        "name":" LD08",
+        "price": 2200,
+        "image": "https://i.pinimg.com/236x/92/a8/fa/92a8fa681dd9fcc1ab193a5ba4632a37.jpg"
+    }
+
+]
